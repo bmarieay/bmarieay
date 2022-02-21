@@ -12,7 +12,7 @@ I'm Marie Antonette Bacay and I currently study Computer Science with an expecte
 - C++
 - C
 
-# 🧰 Tools that I have worked with
+# 🧰 Tools
 - Git
 - APIs
 - Mongoose
