@@ -1,7 +1,10 @@
-# Hi there
+# 👋 Hi there
 I'm Marie Antonette Bacay and I currently study Computer Science with an expected graduation this June 2022. My goal is to become a software developer.
 
-# Technology Skills
+# Project Highlights
+🌱 [YelpCamp](https://github.com/bmarieay/yelp-camp) - a full stack website for campgrounds in the United States. It implement Create, Read, Update, and Delete (CRUD) functionality with Mongo database along with RESTful routes and MVC methodology.
+
+# 🛠️ Technology Skills
 - Javascript
 - Node.js
 - Mongo
@@ -9,13 +12,13 @@ I'm Marie Antonette Bacay and I currently study Computer Science with an expecte
 - C++
 - C
 
-# Tools that I have worked with
+# 🧰 Tools that I have worked with
 - Git
 - Mongoose
 - Heroku
 - Bootstrap
 - NPM
 
-# Others
+# ⚙️ Others
 - HTML
 - CSS
