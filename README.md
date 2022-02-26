@@ -6,8 +6,9 @@ I'm Marie Antonette Bacay and I currently study Computer Science with an expecte
 
 # 🛠️ Technology Skills
 - Javascript
+- MongoDB
+- Express.js
 - Node.js
-- Mongo
 - Java
 - C++
 - C
@@ -19,7 +20,9 @@ I'm Marie Antonette Bacay and I currently study Computer Science with an expecte
 - Heroku
 - Bootstrap
 - NPM
+- Postman
 
 # ⚙️ Others
 - HTML
 - CSS
+- Embedded Javascript
