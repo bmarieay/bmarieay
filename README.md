@@ -1,6 +1,6 @@
 # 👋 Hi there
 I'm Marie Antonette Bacay and I currently study Computer Science with an expected graduation this June 2022. I am currently an Applications Developer at Accenture.
-Have a look at my currently in progress [personal website](https://marieantonettebacay.com)!
+Have a look at my [personal website](https://marieantonettebacay.com)!
 
 # 🏆 Project Highlights
 🌱 [YelpCamp](https://github.com/bmarieay/yelp-camp) - a full stack website for campgrounds in the United States. It implements create, read, update, and delete (CRUD) functionality with Mongo database along with RESTful routes and MVC methodology.
